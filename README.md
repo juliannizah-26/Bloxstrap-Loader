@@ -16,6 +16,7 @@
 - Wajib diinstall di **Server** dan **Client**
 - Download Bloxstrap di [bloxstraplabs.com](https://bloxstraplabs.com/)
 - Install Bloxstrap seperti biasa.
+- Jalankan Robloxnya
 - Jalankan **Roblox-Portable.exe** (Administrator jika perlu)
 - Konfigurasi (config.ini):
   * Atur AutoLogout=true jika ingin akun otomatis logout saat aplikasi dijalankan.
