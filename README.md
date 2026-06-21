@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a6dcb2d8-73a8-4ce2-bec0-ad452f27c997" width="100" alt="Bloxstrap Loader"/>
+</p>
+
 # <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=500&color=2DEB8C&center=true&width=500&height=60&lines=ROBLOX;BLOXSTRAP" alt="Typing" /></p>
 
 <p align="center">
